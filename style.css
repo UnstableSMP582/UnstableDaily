@@ -232,4 +232,8 @@ body {
   color: #000;
 }
 
+.main-content h1 {
+ color: #000 !important;
+}
+
 
