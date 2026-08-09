@@ -236,5 +236,6 @@ body {
 .main-content {
   position: relative;
   z-index: 1; 
-  background: transparent;     
+  background: transparent;
+  color: white;
 }
