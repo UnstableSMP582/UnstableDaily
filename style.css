@@ -246,6 +246,11 @@ body {
 
 
 
-.main {
- color: white;
+.main-content h1 {
+  color: #ffffff; 
 }
+
+.main-content p {
+ color: #e0e0e0;
+}
+
